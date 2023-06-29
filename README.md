@@ -1,7 +1,5 @@
 # Puppy-Adult-Weight-Calculator-Part-2-
 
-![Puppy Icon](Images/puppy.png)
-
 A Python program to calculate the adult weight of puppies based on their age and weight. This interactive calculator provides insights into the expected size of your dog when they reach adulthood.
 
 ## Features
@@ -33,7 +31,7 @@ A Python program to calculate the adult weight of puppies based on their age and
 
 ## Screenshot
 
-![Screenshot](PuppyCalculator.jpg)
+![Screenshot](Images/PuppyCalculator.jpg)
 *Example screenshot of the Puppy Adult Weight Calculator*
 
 ## Contributing
