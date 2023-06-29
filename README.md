@@ -31,7 +31,7 @@ A Python program to calculate the adult weight of puppies based on their age and
 
 ## Screenshot
 
-![Screenshot](Images/Puppy Adult Weight Calculator .jpg) 
+![Screenshot](Images/Preview.jpg) 
 *Example screenshot of the Puppy Adult Weight Calculator*
 
 ## Contributing
